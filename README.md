@@ -3,7 +3,7 @@
 [![Patreon](https://img.shields.io/badge/patreon-donate-blue.svg)](https://www.patreon.com/maoberlehner)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/maoberlehner)
 
-This is an example project for the following article: [Controlling the LEGO Mindstorms NXT with Node.js](https://markus.oberlehner.net/blog/controlling-the-lego-mindstorms-nxt-with-nodejs/)
+This is an example project for the following article: [Controlling the LEGO Mindstorms NXT with Node.js Part 1: It's Alive](https://markus.oberlehner.net/blog/controlling-the-lego-mindstorms-nxt-with-nodejs-its-alive/)
 
 ## Build Setup
 
