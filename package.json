@@ -1,0 +1,19 @@
+{
+  "name": "mindstorms-nxt-node",
+  "version": "0.1.0",
+  "author": "Markus Oberlehner",
+  "homepage": "https://github.com/maoberlehner/mindstorms-nxt-node",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "nodejs-nxt": "https://github.com/maoberlehner/nodejs-nxt.git#464e251d18c144a607f0629642e18c9dcc82a8f9"
+  },
+  "devDependencies": {
+    "@avalanche/eslint-config": "^4.0.0",
+    "eslint": "^6.2.2",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
