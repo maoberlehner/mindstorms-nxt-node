@@ -10,6 +10,9 @@ This is an example project for the following article: [Controlling the LEGO Mind
 ```bash
 # Install dependencies.
 npm install
+
+# Play the signature melody.
+node programs/signature.js
 ```
 
 ## About
